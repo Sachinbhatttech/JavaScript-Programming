@@ -5,5 +5,36 @@
 
 ## Now lets starts With some important JavaScript resources
 
+- Understand What is JavaScript Programming?
+- What are the Features of JavaScript?
+- Understand Applications of JavaScript
+- Understand Client side use of JavaScript
+- Understand Server side use of JavaScript
 
+## Understand Variables and Datatypes in JavaScript
 
+- Javascript variables
+- Type Conversion in JavaScript
+- Type Coercion in JavaScript
+- Difference Between Var, Let, and Const in Javascript
+- JavaScript String
+- Javascript String Search() 
+
+## Understand Operators in JavaScript
+
+- JavaScript Arithmetic Operators
+- Difference Between == and === in Javascript
+- Logical operators in JavaScript
+- Comparison Operators in JavaScript
+- JavaScript Statements
+
+## Understand Conditional Flow in JavaScript
+
+- Ternary Operator JavaScript
+- JavaScript if, else and else if Statement
+- Switch Case in JavaScript
+- Loops in JavaScript
+- Pass By Value vs. Pass By Reference in JavaScript
+- Anonymous Function in JavaScript 
+- How to Pass Parameter in JavaScript Function? 
+- Closure in JavaScript
