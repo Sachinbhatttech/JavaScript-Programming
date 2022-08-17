@@ -38,3 +38,5 @@
 - Anonymous Function in JavaScript 
 - How to Pass Parameter in JavaScript Function? 
 - Closure in JavaScript
+
+## Happy Learning!
